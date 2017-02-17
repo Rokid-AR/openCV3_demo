@@ -9,7 +9,5 @@
 .externalNativeBuild
 /app/build
 /app/.externalNativeBuild
-gradlew*
-/gradle
 /.idea
 /opencv_sdk
