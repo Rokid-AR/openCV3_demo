@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenCV3_demo</string>
+    <string name="str_proc">gray process</string>
+    <string name="str_desc">image description</string>
+</resources>
